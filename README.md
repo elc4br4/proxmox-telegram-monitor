@@ -6,6 +6,9 @@ Sends real-time alerts and full system reports via Telegram Bot API.
 Designed for homelab environments, small infrastructures, and DevOps-oriented monitoring setups.
 
 ![GitHub stars](https://img.shields.io/github/stars/elc4br4/proxmox-telegram-monitor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/elc4br4/proxmox-telegram-monitor?style=social)
+![GitHub license](https://img.shields.io/github/license/elc4br4/proxmox-telegram-monitor)
+![GitHub last commit](https://img.shields.io/github/last-commit/elc4br4/proxmox-telegram-monitor)
 ---
 
 ## 📊 Features
